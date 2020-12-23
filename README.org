@@ -1,0 +1,68 @@
+#+TITLE: Ambrose Field: Architexture II Score
+Score Repository, for public download.
+
+* About
+This repository contains the music score for *Architexture II* (2015) by Ambrose Field. 
+
+* Instrumentation
+
+One-to-a-part vocal ensemble: Soprano 1, Soprano 2, Alto 1, Alto 2, Tenor, Bass.
+
+Duration: 20 minutes
+
+* Background 
+
+The first performance of this work was presented in the reconstructed acoustics of St Mary's Abbey, York on September 25th 2015. The harmonic profile of this piece was specifically designed to match the resonant frequencies of this acoustic. 
+
+For additional information on this project, please see [[https://ambrosefield.github.io/research/architexture2/][The Architexture Project Site]].
+
+You can find the impulse response data for this acoustic [[https://openairlib.net/?page_id=709][here]], as modelled by Steve Oxnard and Damian Murphy of the Department of Electronics, Audio Lab, University of York. 
+
+The music can be satisfactorily performed in a space with a reverb time of approximately 11 seconds, though aspects of resonant reinforcement written into the music will not be as pronounced and the nature of interaction between the piece and the performance space will differ. 
+
+* Usage
+
+This piece is offered as free download. You may freely perform it within your events.
+It is licensed under creative commons licence. If you chose to make modifications to the work, adding them to GitHub will permit others to use your version.
+
+* Programme Notes
+
+Architexture II makes use of the sonic profile of buildings as an evidence base for musical composition. Detailed links between the musical score and the unique spatial and acoustic characteristics of the performance site are embedded within the composition. Modelling the acoustic in this way during the musical composition process can help achieve a closer bond between the notes on the page and the sound perceived by listeners. The purpose of this project is to blur the lines between space, live-art and performance by allowing the situated built environment to become an essential part of a living and evolving musical construction process. his work builds on traditional ideas of writing music for a particular space but re-thinks some of the inherent relationships involved. It attempts to use the space itself as a live sonic performer within an ensemble - an active contributor to an unfolding composition - rather than as a static ‘effect’. Through designing structured ways to provoke reverberation, to blur certain harmonies and not others, to respond to particular spatial locations and not others, opens up new compositional possibilities. This is only possible through detailed acoustical analysis and a composition process which makes use of this information as an evidence-base for sculpting lines and harmonies.
+
+* Download
+
+To download a copy of the score, simply click the 'Download ZIP' option in the 'Clone or Download' box (green button) at the top of this page. You're done. 
+
+* Creative Commons
+
+This work is licensed under a  [[http://creativecommons.org/licenses/by-nc-sa/4.0/][Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.]]
+
+[[https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png]]
+
+Added for free download 23 Dec, 2020.
+
+* Example performance
+
+A live recording of the performance at European Researcher's Night, Sept 25 2015, is available [[https://soundcloud.com/ambrose-field/archtexture-ii-ebor-singers-york][here]]
+A youtube collection of extracts from the 20 minute performance is available [[https://youtu.be/KZWeDSgkPDg][here]]
+
+* Perform, share and make contributions
+
+As this is GitHub, you are welcome to 'fork' this project (GitHub's term for your own linked copy) from which your changes and annotations will then be available to others when you decide they are ready. Your new versions or other changes can become part of this project if you so wish. Please let me know if you'd like help doing this. There is a useful explanation (aimed at a  developer audience [[https://www.youtube.com/watch?v=f5grYMXbAV0][here]]).
+
+In addition to performing, you can modify the score and participate in further developing this piece. For this you will need your own account at GitHub ([[https://github.com/join][sign up here]]), and click the 'Fork' button which appears on this page. You'll then have your own copy, and it will link directly back to this original (preserving the terms of the creative commons license). You can change, make modifications, or scan in your PDF with comments and annotations. If you then make a 'pull-request', your changes can be merged back into the project and attributed. 
+
+You can use the web, the GitHub desktop client, or enter this from your command line (terminal) app. 
+
+#+Begin_src: shell
+
+$ git clone https://github.com/ambrosefield/FIELD_Architexture_II
+$ cd FIELD_Architexture_II
+$ git fork
+
+#+end_src
+
+*If you simply wish to perform the work as is, then you don't need an account at GitHub*. Just download the zip (compressed archive file, which you'll need to unpack - your computer will most likely do this automatically) as above.
+
+Finally, it is also possible to simply scan a marked up/annotated version of your copy of the score, add it as a PDF to your repository, and then submit a 'pull-request' from your GitHub desktop (or similar) app. I'll take a look at the changes and merge them in. Also, GitHub permits you to submit 'bugs' and 'issues': ideal for tracking any questions or comments you might have with rehearsing the work. Others will see these.
+
