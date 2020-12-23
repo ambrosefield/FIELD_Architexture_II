@@ -1,6 +1,6 @@
 #+TITLE: Ambrose Field: Architexture II Score
 Score Repository, for public download.
-
+ 
 * About
 This repository contains the music score for *Architexture II* (2015) by Ambrose Field. 
 
@@ -31,7 +31,7 @@ Architexture II makes use of the sonic profile of buildings as an evidence base 
 
 * Download
 
-To download a copy of the score, simply click the 'Download ZIP' option in the 'Clone or Download' box (green button) at the top of this page. You're done. 
+To download a copy of the score, simply click the 'Download ZIP' option in the 'Code' box (green button) at the top of this page. You're done. 
 
 * Creative Commons
 
@@ -44,7 +44,8 @@ Added for free download 23 Dec, 2020.
 * Example performance
 
 A live recording of the performance at European Researcher's Night, Sept 25 2015, is available [[https://soundcloud.com/ambrose-field/archtexture-ii-ebor-singers-york][here]]
-A youtube collection of extracts from the 20 minute performance is available [[https://youtu.be/KZWeDSgkPDg][here]]
+
+A Youtube collection of extracts from the 20 minute performance is available [[https://youtu.be/KZWeDSgkPDg][here]]
 
 * Perform, share and make contributions
 
